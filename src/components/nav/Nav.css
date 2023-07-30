@@ -1,0 +1,7 @@
+.nav {
+    background: white;
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+}
